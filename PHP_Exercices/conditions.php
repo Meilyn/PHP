@@ -50,8 +50,8 @@
 		?>
 		<h3>EXERCISE 4 : MESSAGE SELON HEURE</h3>
 		<?php
-			$today = date("H:i");
-			// var_dump($today);
+			$today = date_default_timezone_set("Europe/Berlin");
+			var_dump($today);
 			if($today >= 5 AND $today = 9 ){
 				$message= "Bonjour";
 			}

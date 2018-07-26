@@ -36,8 +36,10 @@
 					'Nom' => 'Thomas',
 					'Naissance' => 1947,
 					'aime_foot'	=> true,
-					'hobbies' => array[]
+					'hobbies' => [],
 			);
+			
+
 
 			
 			$Moi = array(
