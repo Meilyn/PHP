@@ -25,6 +25,10 @@
     		$nombre_de_lignes++; 
 		};
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> a0ae4beeab618e0b5b5f9070269ac9514ac4158e
 	 ?>
 	
 </body>
